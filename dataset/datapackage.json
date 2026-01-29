@@ -4,7 +4,7 @@
   "profile": "data-package",
   "resources": [
     {
-      "description": "Dados de óbito hospitalar e óbito institucional por unidade FHEMIG a partir de 2025.",
+      "description": "Dados de óbito hospitalar e óbito institucional por unidade FHEMIG divididos por setor (Tasy) ou centro de custo hospitalar (SIGH).",
       "dialect": {
         "delimiter": ";"
       },
@@ -44,7 +44,7 @@
         ]
       },
       "scheme": "file",
-      "title": "Óbitos hospitalares e institucionais a partir de 2025"
+      "title": "Óbitos hospitalares e institucionais."
     }
   ],
   "title": "Óbitos Hospitalares e Institucionais"
