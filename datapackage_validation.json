@@ -47,10 +47,10 @@
         "scheme": "file",
         "title": "Óbitos hospitalares e institucionais.",
         "stats": {
-          "hash": "8cda1f7d0cf4bf4fc57458a9c46883d8",
-          "bytes": 18611,
+          "hash": "e65acd64716fdeec2cefa377a3a1ecfd",
+          "bytes": 18819,
           "fields": 5,
-          "rows": 1061
+          "rows": 1073
         }
       },
       "time": 0.027,
