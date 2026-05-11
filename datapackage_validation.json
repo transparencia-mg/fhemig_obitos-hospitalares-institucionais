@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.036,
+  "time": 0.026,
   "errors": [],
   "tasks": [
     {
@@ -47,13 +47,13 @@
         "scheme": "file",
         "title": "Óbitos hospitalares e institucionais.",
         "stats": {
-          "hash": "e65acd64716fdeec2cefa377a3a1ecfd",
-          "bytes": 18819,
+          "hash": "04f211dd3662ca705e060f51da5c29e2",
+          "bytes": 19027,
           "fields": 5,
-          "rows": 1073
+          "rows": 1085
         }
       },
-      "time": 0.027,
+      "time": 0.02,
       "scope": [
         "hash-count-error",
         "byte-count-error",
