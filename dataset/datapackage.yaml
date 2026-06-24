@@ -31,6 +31,15 @@ resources:
         - name: obito_institucional
           type: integer
           description: "Óbito institucional (ocorre após decorridas pelo menos 24 horas do início da admissão hospitalar do paciente, excluindo os óbitos ocorridos nas primeiras 24 horas de internação hospitalar)."
+        - name: saida
+          type: integer
+          description: "Saída hospitalar (alta, evasão, desistência, transferência externa ou óbito)."
+        - name: tx_mort_hospitalar
+          type: float
+          description: "Óbitos hospitalares / Total de saídas."
+        - name: tx_mort_institucional
+          type: float
+          description: "Óbitos institucional / Total de saídas"
     scheme: file
     title: Óbitos hospitalares e institucionais.
 title: Óbitos Hospitalares e Institucionais
