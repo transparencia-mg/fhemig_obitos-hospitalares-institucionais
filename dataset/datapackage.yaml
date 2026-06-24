@@ -35,11 +35,11 @@ resources:
           type: integer
           description: "Saída hospitalar (alta, evasão, desistência, transferência externa ou óbito)."
         - name: tx_mort_hospitalar
-          type: text
+          type: integer
           description: "Óbitos hospitalares / Total de saídas."
         - name: tx_mort_institucional
-          type: text
-          description: "Óbitos institucional / Total de saídas"
+          type: integer
+          description: "Óbitos institucional / Total de saídas."
     scheme: file
     title: Óbitos hospitalares e institucionais.
 title: Óbitos Hospitalares e Institucionais
