@@ -11,8 +11,8 @@
       "encoding": "utf-8-sig",
       "format": "csv",
       "hashing": "md5",
-      "name": "obitos-2025",
-      "path": "data/obitos-2025.csv",
+      "name": "obitos",
+      "path": "data/obitos.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
